@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="212" height="313.905" viewBox="0 0 212 313.905">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.086" y1="0.123" x2="0.933" y2="0.912" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e4e9f7"/>
+      <stop offset="1" stop-color="#d1e3f2"/>
+    </linearGradient>
+    <filter id="Rectangle_3099" x="0" y="0" width="212" height="313.905" filterUnits="userSpaceOnUse">
+      <feOffset dy="12" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_5433" data-name="Group 5433" transform="translate(-87 -1732)">
+    <g id="Group_5419" data-name="Group 5419" transform="translate(117 1750)">
+      <g transform="matrix(1, 0, 0, 1, -30, -18)" filter="url(#Rectangle_3099)">
+        <rect id="Rectangle_3099-2" data-name="Rectangle 3099" width="152" height="253.905" rx="17" transform="translate(30 18)" fill="url(#linear-gradient)"/>
+      </g>
+      <g id="news-svgrepo-com" transform="translate(39.754 40.424)">
+        <path id="Path_4691" data-name="Path 4691" d="M35.246.167a35.251,35.251,0,0,0-8.289,69.512L69.97,29.33A35.257,35.257,0,0,0,35.246.167Z" transform="translate(0 -0.167)" fill="#71bafd"/>
+        <path id="Path_4692" data-name="Path 4692" d="M159.4,92.659a35.464,35.464,0,0,0-.516-6.033l-14.2-14.2-3.222,1.376L135.5,67.833,105,116.047l10.879,10.879A35.267,35.267,0,0,0,159.4,92.659Z" transform="translate(-88.909 -57.464)" fill="#0a407c"/>
+        <path id="Path_4693" data-name="Path 4693" d="M284,97.833v40.388c0,2.529,5.109,4.619,7.636,4.628a4.652,4.652,0,0,0,4.623-4.628V97.833Z" transform="translate(-240.478 -82.866)" fill="#d7e5f4"/>
+        <path id="Path_4694" data-name="Path 4694" d="M197.926,117.446l-20.458.025L173.33,93.579l4.138-25.746h15.887v44.985A4.622,4.622,0,0,0,197.926,117.446Z" transform="translate(-146.768 -57.464)" fill="#e4e9f7"/>
+        <path id="Path_4695" data-name="Path 4695" d="M111.988,67.833v49.638l-11.406.014A4.649,4.649,0,0,1,96,112.818V67.833Z" transform="translate(-81.288 -57.464)" fill="#fff"/>
+        <path id="Path_4696" data-name="Path 4696" d="M196.179,232.853h12.664v-3.065H196.179l-.75,1.532Z" transform="translate(-165.481 -194.6)" fill="#273b7a"/>
+        <rect id="Rectangle_3086" data-name="Rectangle 3086" width="12.622" height="3.065" transform="translate(18.076 35.188)" fill="#366796"/>
+        <path id="Path_4697" data-name="Path 4697" d="M196.179,192.853h12.664v-3.065H196.179l-.75,1.532Z" transform="translate(-165.481 -160.73)" fill="#273b7a"/>
+        <rect id="Rectangle_3087" data-name="Rectangle 3087" width="12.622" height="3.065" transform="translate(18.076 29.058)" fill="#366796"/>
+        <path id="Path_4698" data-name="Path 4698" d="M196.179,152.853h12.664v-3.065H196.179l-.75,1.532Z" transform="translate(-165.481 -126.859)" fill="#273b7a"/>
+        <rect id="Rectangle_3088" data-name="Rectangle 3088" width="12.622" height="3.065" transform="translate(18.076 22.929)" fill="#366796"/>
+        <path id="Path_4699" data-name="Path 4699" d="M196.179,95.918h12.664v-6.13H196.179l-.75,3.065Z" transform="translate(-165.481 -76.054)" fill="#273b7a"/>
+        <rect id="Rectangle_3089" data-name="Rectangle 3089" width="12.622" height="6.13" transform="translate(18.076 13.734)" fill="#366796"/>
+        <path id="Path_4700" data-name="Path 4700" d="M196.179,272.853h12.664v-3.065H196.179l-.75,1.532Z" transform="translate(-165.481 -228.47)" fill="#273b7a"/>
+        <rect id="Rectangle_3090" data-name="Rectangle 3090" width="12.622" height="3.065" transform="translate(18.076 41.318)" fill="#366796"/>
+        <rect id="Rectangle_3091" data-name="Rectangle 3091" width="12.622" height="3.065" transform="translate(18.076 47.448)" fill="#366796"/>
+        <rect id="Rectangle_3092" data-name="Rectangle 3092" width="12.622" height="3.065" transform="translate(18.076 53.578)" fill="#366796"/>
+        <rect id="Rectangle_3093" data-name="Rectangle 3093" width="9.599" height="9.195" transform="translate(33.763 47.448)" fill="#fff"/>
+      </g>
+      <g id="Group_5417" data-name="Group 5417" transform="translate(24 126.266)">
+        <text id="News" transform="translate(51 40)" fill="rgba(47,47,47,0.98)" font-size="40" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="-51.1" y="0">News</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

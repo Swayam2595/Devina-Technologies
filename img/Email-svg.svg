@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="58.634" height="58.634" viewBox="0 0 58.634 58.634">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3f1d51;
+      }
+
+      .cls-2 {
+        fill: #faf8fa;
+      }
+    </style>
+  </defs>
+  <g id="Group_5913" data-name="Group 5913" transform="translate(-1611.406 -6612)">
+    <g id="Group_5912" data-name="Group 5912">
+      <g id="Group_5946" data-name="Group 5946">
+        <g id="linkedin-svgrepo-com" transform="translate(1611.406 6612)">
+          <ellipse id="Ellipse_12" data-name="Ellipse 12" class="cls-1" cx="29.317" cy="29.317" rx="29.317" ry="29.317" transform="translate(0 0)"/>
+        </g>
+        <g id="email-svgrepo-com_1_" data-name="email-svgrepo-com (1)" transform="translate(1624.133 6617.965)">
+          <path id="Path_1795" data-name="Path 1795" class="cls-2" d="M29.444,12.089H4.1a4.261,4.261,0,0,0-4.1,4.4V32.141a4.261,4.261,0,0,0,4.1,4.4H29.444a4.261,4.261,0,0,0,4.1-4.4V16.489A4.261,4.261,0,0,0,29.444,12.089Zm-2,2.87L16.77,22.342,6.1,14.959Zm2,18.711H4.1a1.481,1.481,0,0,1-1.424-1.529V16.57l13.273,9.165c.018.012.037.02.055.031l.058.033a1.478,1.478,0,0,0,.317.133l.033.008a1.466,1.466,0,0,0,.359.049h0a1.443,1.443,0,0,0,.359-.049l.033-.008a1.487,1.487,0,0,0,.317-.133l.058-.033c.018-.011.037-.019.055-.031L30.869,16.57V32.141A1.483,1.483,0,0,1,29.444,33.67Z" transform="translate(0 0)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

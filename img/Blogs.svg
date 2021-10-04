@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="212" height="319" viewBox="0 0 212 319">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.086" y1="0.123" x2="0.933" y2="0.912" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e4e9f7"/>
+      <stop offset="1" stop-color="#d1e3f2"/>
+    </linearGradient>
+    <filter id="Rectangle_3098" x="0" y="0" width="212" height="319" filterUnits="userSpaceOnUse">
+      <feOffset dy="12" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_5418" data-name="Group 5418" transform="translate(-18 -1342)">
+    <g transform="matrix(1, 0, 0, 1, 18, 1342)" filter="url(#Rectangle_3098)">
+      <rect id="Rectangle_3098-2" data-name="Rectangle 3098" width="152" height="259" rx="17" transform="translate(30 18)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Group_5413" data-name="Group 5413" transform="translate(-713.001 38.256)">
+      <g id="blogger-svgrepo-com" transform="translate(801.987 1374.971)">
+        <path id="Path_4701" data-name="Path 4701" d="M34.961,0A34.961,34.961,0,1,1,0,34.961,34.961,34.961,0,0,1,34.961,0Z" transform="translate(0 0.018)" fill="#71baff"/>
+        <path id="Path_4688" data-name="Path 4688" d="M119.54,70.083A34.963,34.963,0,0,1,70.1,119.528Z" transform="translate(-59.754 -59.728)" fill="#67a1e3"/>
+        <path id="Path_4689" data-name="Path 4689" d="M168.575,154.53l-25.082-25.08-5.11,5.11-14.023-1.971,2.89,13.1L117.174,155.77l3.542,3.542-.874.874,19.759,19.76A34.988,34.988,0,0,0,168.575,154.53Z" transform="translate(-99.887 -110.336)" fill="#0a407c"/>
+        <path id="Path_4690" data-name="Path 4690" d="M138.391,145.558a11.93,11.93,0,0,0,11.9-11.841l.073-9.584-.11-.522-.314-.656-.532-.412c-.691-.541-4.191.036-5.133-.819-.668-.611-.772-1.714-.975-3.209-.376-2.9-.612-3.047-1.067-4.028-1.648-3.487-6.119-6.107-9.19-6.468h-8.32a11.914,11.914,0,0,0-11.9,11.861v13.836a11.9,11.9,0,0,0,11.9,11.841ZM124.873,117.71h6.6a2.267,2.267,0,1,1,0,4.534h-6.6a2.267,2.267,0,1,1,0-4.534ZM122.6,133.542a2.269,2.269,0,0,1,2.278-2.256h13.4a2.256,2.256,0,1,1,0,4.513h-13.4A2.279,2.279,0,0,1,122.6,133.542Z" transform="translate(-96.179 -92.068)" fill="#fff"/>
+      </g>
+      <g id="Group_5412" data-name="Group 5412" transform="translate(584 1191.5)">
+        <text id="Blogs" transform="translate(253 309)" fill="rgba(47,47,47,0.98)" font-size="40" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="-50.38" y="0">Blogs</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
